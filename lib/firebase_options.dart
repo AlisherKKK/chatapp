@@ -44,8 +44,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDyLAY3wnthrP6BVRtSux_x0_MMgoWnUtw',
-    appId: '1:217147279305:web:402c90de932fb7be95ca18',
+    apiKey: 'KEY',
+    appId: 'ID',
     messagingSenderId: '217147279305',
     projectId: 'chat-app-3a2c9',
     authDomain: 'chat-app-3a2c9.firebaseapp.com',
@@ -54,16 +54,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBOeg8uHbNv9rWbjwhR3Ua1CKPajeAlayU',
-    appId: '1:217147279305:android:64c03582ad299a6695ca18',
+    apiKey: 'KEY',
+    appId: 'ID',
     messagingSenderId: '217147279305',
     projectId: 'chat-app-3a2c9',
     storageBucket: 'chat-app-3a2c9.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB2rFIk60GWPT3frncFTkiT5quTHKx5Ups',
-    appId: '1:217147279305:ios:cd3af5500fdf0b9395ca18',
+    apiKey: 'KEY',
+    appId: 'ID',
     messagingSenderId: '217147279305',
     projectId: 'chat-app-3a2c9',
     storageBucket: 'chat-app-3a2c9.appspot.com',
@@ -71,8 +71,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDyLAY3wnthrP6BVRtSux_x0_MMgoWnUtw',
-    appId: '1:217147279305:web:34bdcf59a434708f95ca18',
+    apiKey: 'KEY',
+    appId: 'ID',
     messagingSenderId: '217147279305',
     projectId: 'chat-app-3a2c9',
     authDomain: 'chat-app-3a2c9.firebaseapp.com',
